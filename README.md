@@ -27,6 +27,8 @@ Este módulo cria um menu hambúrguer responsivo.
 - Fecha o menu ao clicar em um link do menu.
 - Usa delegação de eventos para eficiência.
 
+  <img src="/assets/img/arquivo.gif"><img src="/assets/menuHamburguer.png">
+
 ### 2. Relógio Digital e Alarme (`relogio_digital.js`)
 Este módulo implementa um relógio digital e uma função de alarme.
 
