@@ -41,6 +41,8 @@ Este módulo implementa um relógio digital e uma função de alarme.
 - O alarme pode ser ativado e desativado com controles de botão.
 - Usa `setInterval` para atualização contínua do relógio.
 
+  <img src="/assets/img/arquivo.gif"><img src="/assets/relogio.png.png">
+
 ### 3. Eventos de Teclado (`eventos_teclado.js`)
 Este módulo lida com eventos de teclado para mover uma bola na tela e definir atalhos de teclado.
 
@@ -53,6 +55,8 @@ Este módulo lida com eventos de teclado para mover uma bola na tela e definir a
 - Implementa limites de movimento dentro do palco.
 - Define atalhos de teclado para funções específicas (alerta, confirmação, prompt).
 
+  <img src="/assets/img/arquivo.gif"><img src="/assets/eventoTeclado.png">
+
 ### 4. Contador Regressivo (`contagem_regressiva.js`)
 Este módulo cria um contador regressivo para uma data específica.
 
@@ -64,6 +68,8 @@ Este módulo cria um contador regressivo para uma data específica.
 - Atualiza a cada segundo usando `setInterval`.
 - Exibe uma mensagem personalizada ao atingir a data limite.
 
+  <img src="/assets/img/arquivo.gif"><img src="/assets/countdown.png">
+
 ### 5. Botão de Voltar ao Topo (`botton_scroll.js`)
 Este módulo implementa um botão de voltar ao topo que aparece quando o usuário rola a página para baixo.
 
@@ -73,6 +79,8 @@ Este módulo implementa um botão de voltar ao topo que aparece quando o usuári
 #### Características:
 - Aparece quando a rolagem ultrapassa 600px do topo.
 - Usa `scrollTo` para uma rolagem suave até o topo.
+
+  <img src="/assets/img/arquivo.gif"><img src="/assets/button.png">
 
 ### 6. Modo Escuro (`dark_mode.js`)
 Este módulo implementa uma funcionalidade de alternância entre modo claro e escuro.
@@ -84,6 +92,8 @@ Este módulo implementa uma funcionalidade de alternância entre modo claro e es
 - Alterna entre ícones de sol e lua no botão.
 - Aplica/remove uma classe CSS para elementos com atributo `data-dark`.
 - Usa `localStorage` para persistir a preferência do usuário.
+
+  <img src="/assets/img/arquivo.gif"><img src="/assets/darkmode.png.png">
 
 ### 7. Arquivo Principal (`index.js`)
 Este arquivo importa e inicializa todos os módulos da aplicação.
